@@ -1,1 +1,16 @@
-{"v": 1, "codes": []}
+{
+ "v": 1,
+ "codes": [
+  {
+   "h": "61e11bbb2094109b4cb802f81806e1528c689f0b91d9bb6cdcd2af3a15dbac37",
+   "r": [
+    [
+     "coins",
+     5000
+    ]
+   ],
+   "hasta": "2026-11-30",
+   "msg": "Código de prueba"
+  }
+ ]
+}
